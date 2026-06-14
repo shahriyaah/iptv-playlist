@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Caze TV" group-title="Sports",Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid TV" group-title="Sports",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-name="IDMAN TV" group-title="Sports",IDMAN TV
+https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull TV" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-name="Cricket Gold" group-title="Sports",Cricket Gold
+https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
+
+#EXTINF:-1 tvg-name="Fight Network" group-title="Sports",Fight Network
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fuel TV" group-title="Sports",Fuel TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GoPro TV" group-title="Adventure",GoPro TV
+https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Horse & Country" group-title="Sports",Horse & Country
+https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sport Italia" group-title="Sports",Sport Italia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TVRI Sport" group-title="Sports",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000=20002.m3u8
+
+#EXTINF:-1 tvg-name="AYM Sports" group-title="Sports",AYM Sports
+https://aym-as.otteravision.com/aym/as/as.m3u8
+
+#EXTINF:-1 tvg-name="NBC Team USA" group-title="Sports",NBC Team USA
+https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BTV" group-title="Bangladesh",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-name="MyTV" group-title="Bangladesh",MyTV
+http://116.204.149.16/mytv/index.m3u8
+
+#EXTINF:-1 tvg-name="Rajdhani TV" group-title="Bangladesh",Rajdhani TV
+https://sm-monirul.top/toffee/play/rajdhani_tv.m3u8
+
+#EXTINF:-1 tvg-name="RS News" group-title="News",RS News
+https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fox NY" group-title="News",Fox NY
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo" group-title="Entertainment",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-name="Garage TV" group-title="Automotive",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-name="Drone TV" group-title="Adventure",Drone TV
+https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
